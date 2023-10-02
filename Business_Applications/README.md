@@ -1,3 +1,7 @@
+## Background on the Marketing Data Project
+
+This project entails working with historical marketing promotion data. We'll be carrying out a one way ANOVA test as well as a post-hoc ANOVA test to gain insight on how different promotions affect Sales in order to be able to make confident recomendations on future marketing budgets.
+
 ## Background on the Waze scenario
 
 Waze’s free navigation app makes it easier for drivers around the world to get to where they want to go. Waze’s community of map editors, beta testers, translators, partners, and users helps make each drive better and safer. Waze partners with cities, transportation authorities, broadcasters, businesses, and first responders to help as many people as possible travel more efficiently and safely. 
